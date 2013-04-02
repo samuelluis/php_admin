@@ -2,4 +2,4 @@ RewriteEngine On
 RewriteBase /
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^(.*)$ config/routes.php [L]
+RewriteRule ^(.*)$ app/views/layouts/application.php [L]

@@ -1,2 +1,2 @@
-php_admin
+PHP Admin
 =========
