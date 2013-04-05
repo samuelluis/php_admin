@@ -1,3 +1,3 @@
 <?php
-	include();
+	include("/config/routes.php");
 ?>
